@@ -4,12 +4,13 @@
 - 🧑🏽‍💻 Desenvolvedor Web Full Stack
 - 🌐 Trabalhando atualmente com Laravel/PHP
 
+ ![dev](https://user-images.githubusercontent.com/38969388/216739567-1ac89ba0-355f-43ad-b244-ee581e95cfc2.gif)
+ 
 <div align="center">
   <a href="https://github.com/araujoleonardo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=araujoleonardo&show_icons=true&theme=radical"/>    
 </div>
-  
-  <iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">via GIPHY</a></p>
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
