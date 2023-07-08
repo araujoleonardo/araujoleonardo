@@ -2,9 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=06FAE8&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Leonardo+Araújo;I'm+from+Brazil;I+Graduated+Computer+Science;I'm+a+full-stack+developer;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=araujoleonardo&bg_color=0d1117&color=2AE7F5&line=2678E0&point=2B4DFC&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=araujoleonardo&theme=tokyonight&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
